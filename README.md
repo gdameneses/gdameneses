@@ -3,11 +3,11 @@
 
 - 🔭 Eu estou trabalhando com [runr](https://github.com/gdameneses/runr)
 
-- 🌱 Estou aprendendo **Mais Rails e Javascript.**
+- 🌱 Estou aprendendo **Rails e Javascript.**
 
 - 👯 Não deixa de conferir o [mobbilar](http://www.mobbilar.com.br)
 
-- 👨‍💻 Fique por dentro do meu portfolio [gdameneses.github.io/portfolio](gdameneses.github.io/portfolio)
+- 👨‍💻 Fique por dentro do meu [portfolio](gdameneses.github.io/portfolio)
 
 - 📫 Email **gdameneses@gmail.com**
 
