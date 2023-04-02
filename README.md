@@ -1,5 +1,5 @@
 <h1>Oi, eu sou o Gustavo Meneses</h1>
-<h3>Um dev Full stack em Ruby on Rails.</h3>
+<h3>Um Desenvolvedor Full Stack com foco em Ruby on Rails.</h3>
 
 - 🔭 Eu estou trabalhando com [runr](https://github.com/gdameneses/runr)
 
