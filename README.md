@@ -7,7 +7,7 @@
 
 - 👯 Não deixa de conferir o [mobbilar](http://www.mobbilar.com.br)
 
-- 👨‍💻 Fique por dentro do meu [portfolio](http://gdameneses.github.io/portfolio)
+- 👨‍💻 Fique por dentro do meu [portfolio](http://gustavomeneses.dev)
 
 - 📫 Email **gdameneses@gmail.com**
 
