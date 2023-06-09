@@ -3,9 +3,9 @@
 
 - 🔭 Eu estou trabalhando com [runr](https://github.com/gdameneses/runr)
 
-- 🌱 Estou aprendendo **Rails e Javascript.**
+- 🌱 Estou estudando **Rails e Javascript.**
 
-- 👯 Não deixa de conferir o [mobbilar](http://www.mobbilar.com.br)
+- 👯 Não deixa de conferir o [Lanchonotto](http://lanchonotto.fly.dev) (acabou de sair do forno)
 
 - 👨‍💻 Fique por dentro do meu [portfolio](http://gustavomeneses.dev)
 
