@@ -1,9 +1,9 @@
 <h1>Oi, eu sou o Gustavo!</h1>
 <h3>Um Desenvolvedor Full Stack com foco em Ruby on Rails.</h3>
 
-- 🔭 Eu estou trabalhando com [runr](https://github.com/gdameneses/runr)
+- 🔭 Eu estou trabalhando com Qwkin.io
 
-- 🌱 Estou estudando **Rails e Javascript.**
+- 🌱 Estou estudando **Javascript (NODE)**
 
 - 👯 Não deixa de conferir o [Lanchonotto](http://lanchonotto.fly.dev) (acabou de sair do forno)
 
