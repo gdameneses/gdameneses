@@ -1,19 +1,19 @@
-<h1>Oi, eu sou o Gustavo!</h1>
-<h3>Um Desenvolvedor Full Stack com foco em Ruby on Rails.</h3>
+<h1>Hey, I am Gustavo!</h1>
+<h3>Backend developer focused on NODE JS</h3>
 
-- 🔭 Eu estou trabalhando com Qwkin.io
+- 🔭 I am working @ Qwkin.io
 
-- 🌱 Estou estudando **Javascript (NODE)**
+- 🌱 I have been improving my System Design
 
-- 👯 Não deixa de conferir o [Lanchonotto](http://lanchonotto.fly.dev) (acabou de sair do forno)
+- 👯 Ask me about Node or mongoDB
 
-- 👨‍💻 Fique por dentro do meu [portfolio](http://gustavomeneses.dev)
+- 👨‍💻 Checkout my [portfolio](http://gustavomeneses.dev)
 
 - 📫 Email **gdameneses@gmail.com**
 
-- ⚡ Fun fact **Se você perde partidas, você cai de ranking.**
+- ⚡ Fun fact **Resident evil is fun until the big guy follows around**
 
-<h3 align="left">Fala comigo</h3>
+<h3 align="left">Let's talk</h3>
 <a href="https://www.linkedin.com/in/gdameneses/" target="_blank" rel="noreferrer">LinkedIn</a>
 
 <h3 align="left">Languages and Tools:</h3>
