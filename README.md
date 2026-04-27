@@ -3,8 +3,8 @@
 
 - 🔭 Taking screenshots at [Urlbox](https://urlbox.com)
 
-- 🌱 Interested in System Design and scalling issues
+- 🌱 Interested in System Design, security and scalling apps to the moong!
 
 - 📫 Email **gdameneses@gmail.com**
 
-- ⚡ Fun fact **Resident evil is fun until the big guy follows around**
+- ⚡ Pro tip: **Just go and play some Disco Elysium.**
